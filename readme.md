@@ -1,3 +1,2 @@
 ### ByteGame
-Entry point: main.py
-To restart the game press "R"
+Entry point: _main.py_, reset the game pressing _"R key"_
